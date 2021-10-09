@@ -1,0 +1,90 @@
+        /* style sheet for product page */
+        *{
+            margin: 0px;
+            background-color: papayawhip;
+            padding: 0px;
+           }
+           body{
+            font-family: arial;
+           }
+           .main{
+           
+            margin: 2%;
+           }
+        
+           .head1{
+               color: red;
+               text-align: center;
+               font-size: 160%;
+               font-family:Georgia, 'Times New Roman', Times, serif;
+        
+           }
+           
+           .card{
+                width: 20%;
+                display: inline-block;
+                box-shadow: 2px 2px 20px black;
+                border-radius: 5px; 
+                margin: 2%;
+               }
+           
+           .image img{
+             width: 100%;
+             border-top-right-radius: 5px;
+             border-top-left-radius: 5px;
+             
+           
+            
+            }
+           
+           .title{
+            
+             text-align: center;
+             padding: 10px;
+             
+            }
+           
+           h1{
+             font-size: 20px;
+            }
+           
+           .des{
+             padding: 3px;
+             text-align: center;
+            
+             padding-top: 10px;
+                   border-bottom-right-radius: 5px;
+             border-bottom-left-radius: 5px;
+           }
+           button{
+             margin-top: 40px;
+             margin-bottom: 10px;
+             background-color: white;
+             border: 1px solid black;
+             border-radius: 5px;
+             padding:10px;
+           }
+           button:hover{
+             background-color:pink;
+             color: white;
+             transition: .5s;
+             cursor: pointer;
+           }
+           
+           .btnn{
+             margin-left: 50px;
+             text-decoration: none;
+             margin-top: 10px;
+        
+           }
+           .in_bttn{
+             text-decoration: none;
+             background:none;
+        
+           }
+        
+           .in_bttn:hover{
+             color: red;
+           }
+
+ 

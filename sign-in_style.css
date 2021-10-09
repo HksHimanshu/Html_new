@@ -1,0 +1,91 @@
+*{
+    background-image: url(/background3.jpeg);
+    position: cover;
+}
+ .form {
+    margin-top: 45%px;
+    margin-left: 35%;
+    font-size: 45px;
+    padding: 25px;
+    position: absolute;
+
+
+}
+
+.btn{
+    margin-left: 25px;
+    width: 200px;
+    height: 45px;
+    /* background:bla; */
+    border:3px;
+    color: white;
+    font-size: 20px;
+    border-bottom-right-radius: 5px;
+    border-radius: 10px;
+    text-decoration: none;
+
+}
+.btn a:hover{
+color:red;
+
+}
+.n_btn{
+    text-decoration: none;
+}
+
+.abc{
+    width: 130px;
+    height: 35px;
+}
+
+.signup{
+    text-decoration: none;
+    border-radius: 5px;
+    color:black;
+    width: 150px;
+    height:40px ;
+}
+
+.s_link{
+    text-decoration: none;
+    border: 5px;
+    font-size: 20px;
+}
+.s_link:hover{
+    color: red;
+    
+}
+
+.home_page{
+    text-decoration: none;
+    border: 3px;
+    
+}
+
+.btn_next{
+    border:5px;
+    height: 37px;
+    border-radius: 5px;
+    border-color: black;
+    box-shadow: black;
+
+}
+.link{
+    width: 430px;
+    border-radius: 5px;
+    text-align: center;
+    background: none;
+}
+/* .form h2{
+    width: 220px;
+    font-family: sans-serif;
+    text-align: center;
+    color: orangered;
+    font-size: 22px;
+    background-color: #fff ;
+    border-radius: 10px;
+    margin: 2px;
+    padding: 8px;
+
+} */
+
